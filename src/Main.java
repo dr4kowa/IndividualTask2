@@ -43,7 +43,6 @@ public class Main {
                 continue;
             }
 
-            // TODO Сделать проверку на легальность цвета
 // Добавление телефона в список
             if (flag1 == 1) {
                 String phoneModel = "";
